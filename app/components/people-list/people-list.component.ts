@@ -1,4 +1,4 @@
-import {Component, OnInit} from "angular2/core";
+import {Component} from "angular2/core";
 import {IPersonRaw} from "../../def/people";
 import {PeopleService} from "../../services/people.service";
 import {PeopleListItemComponent} from "../people-list-item/people-list-item.compoment";
@@ -10,18 +10,11 @@ import {PeopleListItemComponent} from "../people-list-item/people-list-item.comp
     pipes: [],
     directives: [PeopleListItemComponent]
 })
-export class PeopleListComponent implements OnInit {
-    pageTitle: string = 'Product List';
-    showImage: boolean = false;
-    listFilter: string = '';
+export class PeopleListComponent {
     errorMessage: string;
     people: IPersonRaw[];
 
     constructor(private _peopleService: PeopleService) {
-    }
-
-    toggleImage(): void {
-        this.showImage = !this.showImage;
     }
 
     queryPeopleService(queryString: string) {
@@ -32,18 +25,5 @@ export class PeopleListComponent implements OnInit {
             this.people = [];
             this.errorMessage = err;
         });
-    }
-
-    ngOnInit(): void {
-        // this.queryPeopleService("test");
-
-        // this._peopleService.getPeopleRx()
-        //           .subscribe(
-        //             people => this.people = people,
-        //             error =>  this.errorMessage = <any>error);
-    }
-
-    onRatingClicked(message: string): void {
-        this.pageTitle = 'Product List: ' + message;
     }
 }
