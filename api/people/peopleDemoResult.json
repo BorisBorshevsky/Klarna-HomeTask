@@ -1,0 +1,97 @@
+[
+  {
+    "id": "b01a0e23da718a08989311b8b2dfb069",
+    "name": "Dr. Johan ├וslund",
+    "phone": "5248-469641",
+    "avatar_image": "images/b0/b01a0e23da718a08989311b8b2dfb069.png",
+    "avatar_origin": "https://robohash.org/b01a0e23da718a08989311b8b2dfb069.png?size=400x400&set=set1",
+    "email": "carolina_ankunding@blickmckenzie.io",
+    "quote": "Aren't you a little short for a Stormtrooper?",
+    "chuck": "Chuck Norris burst the dot com bubble.",
+    "birthday": 443138400,
+    "address": {
+      "city": "Avs├Ñs",
+      "street": "Larssons Gata 4",
+      "country": "Norrland"
+    }
+  },
+  {
+    "id": "d6d7705392bc7af633328bea8c4c6904",
+    "name": "K├Ñre ├צstlund",
+    "phone": "1837-242305",
+    "avatar_image": "images/d6/d6d7705392bc7af633328bea8c4c6904.png",
+    "avatar_origin": "https://robohash.org/d6d7705392bc7af633328bea8c4c6904.png?size=400x400&set=set1",
+    "email": "veronica@moen.biz",
+    "quote": "Who's the more foolish; the fool, or the fool who follows him?",
+    "chuck": "There is no need to try catching Chuck Norris' exceptions for recovery; every single throw he does is fatal.",
+    "birthday": 148338000,
+    "address": {
+      "city": "Kramberg",
+      "street": "Bj├╢rkgatan 8",
+      "country": "Arberg"
+    }
+  },
+  {
+    "id": "3d58ce20fe802793e0b221905baa60b3",
+    "name": "PhD. Johan Johansson",
+    "phone": "1612-723463",
+    "avatar_image": "images/3d/3d58ce20fe802793e0b221905baa60b3.png",
+    "avatar_origin": "https://robohash.org/3d58ce20fe802793e0b221905baa60b3.png?size=400x400&set=set1",
+    "email": "grover@smith.biz",
+    "quote": "You do have your moments. Not many, but you have them.",
+    "chuck": "Whiteboards are white because Chuck Norris scared them that way.",
+    "birthday": -324784800,
+    "address": {
+      "city": "B├Ñs├Ñs",
+      "street": "Birgittas Gata 90",
+      "country": "Karlvik"
+    }
+  },
+  {
+    "id": "134ad24e99806ca111197065657dbf5e",
+    "name": "Dr. Ingeg├ñrd Larsson",
+    "phone": "6824-95644",
+    "avatar_image": "images/13/134ad24e99806ca111197065657dbf5e.png",
+    "avatar_origin": "https://robohash.org/134ad24e99806ca111197065657dbf5e.png?size=400x400&set=set1",
+    "email": "narciso_rohan@feeney.name",
+    "quote": "Truly wonderful, the mind of a child is.",
+    "chuck": "Chuck Norris can write infinite recursion functions... and have them return.",
+    "birthday": 629416800,
+    "address": {
+      "city": "Kramstad",
+      "street": "Maries Gata 854",
+      "country": "S├╢derfred"
+    }
+  },
+  {
+    "id": "24b299d767a979b1ef4b2e634067c8ad",
+    "name": "Dr. Johan ├וslund",
+    "phone": "7665-08221",
+    "avatar_image": "images/24/24b299d767a979b1ef4b2e634067c8ad.png",
+    "avatar_origin": "https://robohash.org/24b299d767a979b1ef4b2e634067c8ad.png?size=400x400&set=set1",
+    "email": "trycia@smitham.com",
+    "quote": "Fear is the path to the dark side... fear leads to anger... anger leads to hate... hate leads to suffering.",
+    "chuck": "Chuck Norris hosting is 101% uptime guaranteed.",
+    "birthday": 141861600,
+    "address": {
+      "city": "Falsta",
+      "street": "Norra Skolall├⌐n 5",
+      "country": "K├╢vik"
+    }
+  },
+  {
+    "name": "Dr. Per Andersson",
+    "phone": "3330-435854",
+    "avatar_image": "images/39/39201609d9803efb38f41f440309a429.png",
+    "avatar_origin": "https://robohash.org/39201609d9803efb38f41f440309a429.png?size=400x400&set=set1",
+    "email": "ansel.walker@corkerybeahan.com",
+    "quote": "If they follow standard Imperial procedure, they'll dump their garbage before they go to light-speed.",
+    "chuck": "Chuck Norris writes code that optimizes itself.",
+    "birthday": 421538400,
+    "address": {
+      "city": "S├╢derhamn",
+      "street": "Gustafssons Gata 97",
+      "country": "Falborg"
+    }
+  }
+]

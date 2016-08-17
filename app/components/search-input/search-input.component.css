@@ -1,0 +1,25 @@
+.cui__input__label {
+    pointer-events: none;
+    /*transition: 0.5s ease all;*/
+    /*-moz-transition: 0.5s ease all;*/
+    /*-webkit-transition: 0.5s ease all;*/
+    position: absolute;
+}
+
+.cui__input__input:active ~ .cui__input__label,
+.cui__input__input:valid ~ .cui__input__label,
+.cui__input__input:focus ~ .cui__input__label {
+    /*top: -25px;*/
+    /*font-size: 10px;*/
+    /*color: #4558ae;*/
+    /*font-weight:600;*/
+    /*transition: 0.5s ease top;*/
+    /*-moz-transition: 0.5s ease top;*/
+    /*-webkit-transition: 0.5s ease top;*/
+    display: none;
+}
+
+.cui__input {
+    /*position: relative;*/
+    margin-bottom: 45px;
+}

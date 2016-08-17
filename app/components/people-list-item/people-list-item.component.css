@@ -1,0 +1,8 @@
+.cui__selector--direct__description.age {
+    display: inline-block;
+    width: 10%;
+}
+
+.cui__selector--direct__description.phone {
+    display: inline-block;
+}

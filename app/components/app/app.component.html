@@ -1,0 +1,11 @@
+<div class="search">
+
+    <search-input (search)="onSearch($event)"></search-input>
+
+    <div class="results">
+        <div class="cui__selector--direct title">
+            <people-list #peopleList [query]="searchInput"></people-list>
+        </div>
+    </div>
+</div>
+
