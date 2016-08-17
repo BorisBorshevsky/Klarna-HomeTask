@@ -7,4 +7,4 @@
     This launches the TypeScript compiler (tsc) to compile the application and wait for changes. 
     It also starts the express server.
     
-4) Open your favorite browser with the link `http:\\localhost\index.html`
+4) Open your favorite browser with the link `http://localhost/index.html`
